@@ -1,4 +1,3 @@
-
 import { GoogleGenAI } from "@google/genai";
 import { Room, Tenant, Payment, RoomStatus } from "../types";
 
